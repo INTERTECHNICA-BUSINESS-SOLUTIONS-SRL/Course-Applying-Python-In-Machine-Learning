@@ -1,0 +1,7 @@
+name: applying-python-in-machine-learning
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
