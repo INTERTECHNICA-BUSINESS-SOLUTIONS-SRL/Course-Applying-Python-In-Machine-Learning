@@ -1,4 +1,5 @@
-# <img align="left" height="50px" src="https://github.com/user-attachments/assets/a5db4113-701d-4b4c-b7eb-1b7cacc8ca78" /> Applying Python In Machine Learning
+# 🐍💻🤖 Applying Python In Machine Learning
+## 🎓📚 Course Notebooks
 
 This selection of notebooks is designed to help learners and practitioners to get hands-on experience with machine learning concepts using Python. 
 Whether you are just starting to explore machine learning or seeking to deepen your practical skills, this repository provides a structured approach that covers data preprocessing, model building, evaluation, along with essential ML theory.
